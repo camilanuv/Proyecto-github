@@ -17,7 +17,7 @@ Lo que me han parecido interesante de Git hasta el momento es:
 * .gitignore
 * git clean -f
 * git cherry-pick (aunque no es lo mas recomendable)
-* git amend
+* git commit --amend
 
 A seguir aprendiendo 🚀💻
 
